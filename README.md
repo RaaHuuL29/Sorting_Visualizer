@@ -10,7 +10,7 @@
 
 ## Demo
 
-Here is a working live demo :
+Here is a working live demo :https://rahul-sorting-visualizer-project.netlify.app/
 
 ## Site
 
